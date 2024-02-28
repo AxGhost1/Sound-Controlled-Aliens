@@ -1,0 +1,35 @@
+body {
+    font-family: "Kode Mono", monospace;
+    background-color: skyblue;
+    color: black;
+}
+#header_div {
+    background-color: skyblue;
+    color: whitesmoke;
+}
+#header_div h3{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    letter-spacing: 10px;
+    font-size: 66px;
+}
+.main_div button{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 50px;
+    width: 250px;
+    font-weight: bolder;
+    letter-spacing: 10px;
+}
+.copy_right_footer 
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    height: 3%;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
